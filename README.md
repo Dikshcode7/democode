@@ -1,2 +1,3 @@
 # democode
-learning github repo
+Learning github repo
+Created by DIKSH KAUSHIK.
